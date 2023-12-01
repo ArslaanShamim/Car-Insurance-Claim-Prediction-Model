@@ -5,8 +5,11 @@ We can see that there are very less number of cases of policy claims. There is o
 We have a package named “imblearn” which is mostly preferred for solving the Class imbalance problem.
 
 We use Hyperparameter tuning for maximize the performance of the model using arranging several parameters and attributes for the model.To perform Hyperparameter tuning we have two methods which are most widely used:
+
 1: RandomizedSearchCV
+
 2: GridsearchCV
+
 Now I have used Grid search CV for the Logistic Regression.
 
 The csv file contains 58592 rows of data and 44 columns reprenting the features of the data set. Encoding of the categorical variables is important to make the model understand the dataset more comfortable.
@@ -14,7 +17,11 @@ The csv file contains 58592 rows of data and 44 columns reprenting the features 
 This project had 5 steps :
 
 1: Importing Libraries
+
 2: Dataset Analysis
+
 3: Preprocessing & Feature EDA
+
 4: Splitting the dataset
+
 5: Classification model selection and training
