@@ -17,7 +17,11 @@ The csv file contains 58592 rows of data and 44 columns reprenting the features 
 This project had 5 steps :
 
 1: Importing Libraries
+
 2: Dataset Analysis
+
 3: Preprocessing & Feature EDA
+
 4: Splitting the dataset
+
 5: Classification model selection and training
